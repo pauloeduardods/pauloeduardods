@@ -1,8 +1,13 @@
 <h1 align="center"> Hi there👋️ </h1>
 
-### My full name is Paulo Eduardo de Sordi Gomes
-#### I'm currently studying web development at [**Trybe**](https://www.betrybe.com/) 🚀️
-#### I live in Brazil 🇧🇷️
+#### My full name is Paulo Eduardo de Sordi Gomes
+I'm currently studying web development at [**Trybe**](https://www.betrybe.com/) 🚀️
+
+I live in Brazil 🇧🇷️
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div>
 
 ## Things about me
 * ⏲️ In my free time i love to play games, listen music, watch videos, speak with my friends and stay with my family
