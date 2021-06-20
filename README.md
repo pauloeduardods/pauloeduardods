@@ -26,7 +26,7 @@
 
 <h2 align="center">Most used languages</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloeduardods&theme=synthwave&layout=compact&exclude_repo=oledDisplayRaspberry,passwd_encrypt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloeduardods&theme=synthwave&layout=compact&exclude_repo=passwd_encrypt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
