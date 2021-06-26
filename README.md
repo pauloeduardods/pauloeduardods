@@ -14,7 +14,7 @@
 
   ## **Github Stats** <img src="./images/stats.gif" width="40"> 
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pauloeduardodstheme=synthwave&layout=compact)](https://github.com/pauloeduardods?tab=repositories)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pauloeduardods&theme=synthwave&layout=compact)](https://github.com/pauloeduardods?tab=repositories)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloeduardods&theme=synthwave&layout=compact)](https://github.com/pauloeduardods?tab=repositories)
 
 
