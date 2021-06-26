@@ -16,7 +16,7 @@
 
 </div>
 
-<h2 align="center">Things about me</h2>
+## **Things about me** <img src="./images/me.gif" width="40">
 
 * ⏲️ In my free time i love to play games, listen music, watch videos, speak with my friends and stay with my family
 * 🎶️ My favorite music style is Rap and High-BPM❤️
