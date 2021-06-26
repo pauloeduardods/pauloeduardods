@@ -17,7 +17,7 @@
   <a href="https://github.com/pauloeduardods?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=pauloeduardods&theme=synthwave&layout=compact" width="419" align="center"></a>
   <a href="https://github.com/pauloeduardods?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloeduardods&theme=synthwave&layout=compact" align="center"></a>
 
-  ## **Things about me** <img src="./images/me.gif" width="40">
+  ## **About me** <img src="./images/me.gif" width="40">
 
 </div>
 
