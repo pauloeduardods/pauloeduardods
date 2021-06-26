@@ -17,7 +17,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloeduardods&theme=synthwave&layout=compact)](https://github.com/pauloeduardods?tab=repositories)
 
 
-## **Things about me** <img src="./images/me.gif" width="40">
+  ## **Things about me** <img src="./images/me.gif" width="40">
 
 </div>
 
@@ -28,8 +28,11 @@
 * 🚀️ ₿itcoin enthusiast
 
 <div align="center">
-  <h2>Contact</h2>
+
+  ## **Contact** <img src="./images/contact.gif" width="40">
+
   <a href="https://www.linkedin.com/in/pauloeduardods/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:pauloeduardodesordigomes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.instagram.com/pauloeduardods/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  
 </div>
 
 
