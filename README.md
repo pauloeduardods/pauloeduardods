@@ -1,22 +1,25 @@
 <div align="center">
 
-##  *Hi there* <img src="./images/hello.gif" width="40">
+  ##  *Hi there* <img src="./images/hello.gif" width="40">
+
   <h4> My full name is Paulo Eduardo de Sordi Gomes </h4>
-  
+
   I'm currently studying web development at [**Trybe**](https://www.betrybe.com/) 🚀️
   <p>Living in Brazil 🇧🇷️</p>
 
-## **Languages and Tools** <img src="./images/tools.gif" width="40">
+  ## **Languages and Tools** <img src="./images/tools.gif" width="40">
+  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
 
-  
+
   ## **Github Stats** <img src="./images/stats.gif" width="40"> 
-  
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloeduardods&theme=synthwave&layout=compact)](https://github.com/pauloeduardods?tab=repositories)
 
-</div>
 
 ## **Things about me** <img src="./images/me.gif" width="40">
+
+</div>
 
 * ⏲️ In my free time i love to play games, listen music, watch videos, speak with my friends and stay with my family
 * 🎶️ My favorite music style is Rap and High-BPM❤️
