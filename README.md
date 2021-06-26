@@ -1,5 +1,6 @@
 <div align="center">
-  <h1> Hi there👋️ </h1>
+
+##  * Hi there * <img src="./images/hello.gif" width="40">
   <h4> My full name is Paulo Eduardo de Sordi Gomes </h4>
   
   I'm currently studying web development at [**Trybe**](https://www.betrybe.com/) 🚀️
