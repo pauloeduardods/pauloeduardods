@@ -9,7 +9,7 @@
 
   <h2>Most used languages</h2>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloeduardods&theme=synthwave&layout=compact&exclude_repo=passwd_encrypt)](https://github.com/pauloeduardods?tab=repositories)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloeduardods&theme=synthwave&layout=compact)](https://github.com/pauloeduardods?tab=repositories)
 
 </div>
 
