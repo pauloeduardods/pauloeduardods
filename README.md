@@ -7,7 +7,8 @@
   
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
-  <h2>Most used languages</h2>
+  
+  <img src="./images/stats.gif"><h2>Github Stats</h2>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloeduardods&theme=synthwave&layout=compact)](https://github.com/pauloeduardods?tab=repositories)
 
