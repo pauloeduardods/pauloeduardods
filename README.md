@@ -13,13 +13,9 @@
 
   ## **Github Stats** <img src="./images/stats.gif" width="40"> 
   
-  <div align="center">
-    
-    Visitors Count
+  <h4 align="center">Visitor's count :eyes:</h4>
    
-    <img src="https://profile-counter.glitch.me/pauloeduardods/count.svg">
-    
-  </div>
+  <img src="https://profile-counter.glitch.me/pauloeduardods/count.svg">
   
   <a href="https://github.com/pauloeduardods?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=pauloeduardods&theme=synthwave&layout=compact" width="419" align="center"></a>
   <a href="https://github.com/pauloeduardods?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloeduardods&theme=synthwave&layout=compact" align="center"></a>
