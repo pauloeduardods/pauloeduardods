@@ -24,7 +24,7 @@
 
 </div>
 
-* ⏲️ In my free time i love to play games, listen to music, watch videos, speak with my friends and stay with my family
+* ⏲️ In my free time I love to play games, listen to music, watch videos, speak with my friends and stay with my family
 * 🎶️ My favorite music style is Rap and High-BPM❤️
 * 🎮️ I just play FPS like CSGO, CoD and Valorant
 * 💻️ Fascinated by technology and space 
