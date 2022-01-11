@@ -25,7 +25,7 @@
 </div>
 
 * ⏲️ In my free time I love to play games, listen to music, watch videos, speak with my friends and stay with my family
-* 🎶️ My favorite music style is Rock and Rap❤️
+* 🎶️ My favorite music style is Rock and Rap
 * 🎮️ I just play FPS like CSGO, CoD and Valorant
 * 💻️ Fascinated by technology and space 
 * 🚀️ ₿itcoin enthusiast
