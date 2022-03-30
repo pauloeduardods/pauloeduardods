@@ -1,6 +1,14 @@
 <div align="center">
 
-  ##  *Hi there* <img src="./images/hello.gif" width="40">
+  ##  *Ola* <img src="./images/hello.gif" width="40">
+  
+ ## **About me** <img src="./images/me.gif" width="40">
+
+* ⏲️ In my free time I love to play games, listen to music, watch videos, speak with my friends and stay with my family
+* 🎶️ My favorite music style is Rock and Rap
+* 🎮️ I just play FPS like CSGO, CoD and Valorant
+* 💻️ Fascinated by technology and space 
+* 🚀️ ₿itcoin enthusiast
 
   <h4> My full name is Paulo Eduardo de Sordi Gomes </h4>
 
@@ -20,15 +28,10 @@
   <a href="https://github.com/pauloeduardods?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=pauloeduardods&theme=synthwave&layout=compact" width="419" align="center"></a>
   <a href="https://github.com/pauloeduardods?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloeduardods&theme=synthwave&layout=compact" align="center"></a>
 
-  ## **About me** <img src="./images/me.gif" width="40">
+
 
 </div>
 
-* ⏲️ In my free time I love to play games, listen to music, watch videos, speak with my friends and stay with my family
-* 🎶️ My favorite music style is Rock and Rap
-* 🎮️ I just play FPS like CSGO, CoD and Valorant
-* 💻️ Fascinated by technology and space 
-* 🚀️ ₿itcoin enthusiast
 
 <div align="center">
 
