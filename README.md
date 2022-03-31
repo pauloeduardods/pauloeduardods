@@ -4,7 +4,7 @@
 
   <h4> Sou Paulo Eduardo de Sordi Gomes </h4>
 
-  ## **Quem sou eu** <img src="./images/me.gif" width="40">
+  ## **Sobre** <img src="./images/me.gif" width="40">
 
   Apaixonado por tecnologia, mercado financeiro e segurança de software. Entusiasta em exploração espacial e Bitcoin. Sempre estou em busca de novos desafios e compartilhar conhecimento.
 
