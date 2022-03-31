@@ -44,9 +44,9 @@
   <a href="mailto:pauloedsg@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/pauloeduardods/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a> 
+  <a href="https://pauloedsg.com">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+  </a>
   
   <a align="center" href="https://docs.google.com/document/d/e/2PACX-1vREGxoGU8lgE-k2XbsHbsvy7P3wXIMRm2PH_PglU25lgajQANFEh5IP6TFF1kECRIlcNRtwiyfaHZ3a/pub">📃 Currículo 📃</a>
 
