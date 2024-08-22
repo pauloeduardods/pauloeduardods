@@ -6,7 +6,7 @@
 
   ## **Sobre** <img src="./images/me.gif" width="40">
 
-  Apaixonado por tecnologia, mercado financeiro e segurança de software. Entusiasta em exploração espacial e Bitcoin. Sempre estou em busca de novos desafios e compartilhar conhecimento.
+  Apaixonado por tecnologia, mercado financeiro e segurança de software. Sempre estou em busca de novos desafios e compartilhar conhecimento.
 
 
   ## **Languages and Tools** <img src="./images/tools.gif" width="40">
