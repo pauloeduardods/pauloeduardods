@@ -1,4 +1,4 @@
-<div align="center">
+<!--<div align="center">
 
   ## *Ola* <img src="./images/hello.gif" width="40">
 
@@ -9,7 +9,7 @@
  Under construction
 
 
-  <!--## **Languages and Tools** <img src="./images/tools.gif" width="40">
+  ## **Languages and Tools** <img src="./images/tools.gif" width="40">
   
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
 
   ## **Status Github** <img src="./images/stats.gif" width="40"> 
   
@@ -50,7 +50,7 @@
   
   <a align="center" href="https://docs.google.com/document/d/e/2PACX-1vREGxoGU8lgE-k2XbsHbsvy7P3wXIMRm2PH_PglU25lgajQANFEh5IP6TFF1kECRIlcNRtwiyfaHZ3a/pub">📃 Currículo 📃</a>
 
-</div>
+</div>-->
 
 
 
